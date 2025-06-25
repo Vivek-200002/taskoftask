@@ -1,0 +1,8 @@
+.section-bg {
+    background-image: url('/hero.svg'); /* image from public folder */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 60px 0;
+  }
+  

@@ -1,0 +1,34 @@
+.admin-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .admin-form input[type="text"],
+  .admin-form textarea,
+  .admin-form input[type="file"] {
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+  }
+  
+  .admin-form textarea {
+    resize: vertical;
+    height: 100px;
+  }
+  
+  .admin-form button {
+    padding: 10px 20px;
+    background-color: #0b5ed7;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .admin-form button:hover {
+    background-color: #0948aa;
+  }
+  

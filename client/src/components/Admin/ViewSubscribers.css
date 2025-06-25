@@ -1,0 +1,21 @@
+.table-container {
+    overflow-x: auto;
+  }
+  
+  .admin-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 16px;
+  }
+  
+  .admin-table th,
+  .admin-table td {
+    padding: 12px;
+    border: 1px solid #ccc;
+    text-align: left;
+  }
+  
+  .admin-table th {
+    background-color: #f2f2f2;
+  }
+  
